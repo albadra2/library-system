@@ -1,0 +1,32 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment folders
+env/
+venv/
+.venv/
+
+# Ignore Django migrations (optional if you prefer to generate them fresh)
+*/migrations/*.pyc
+*/migrations/__pycache__/
+
+# Ignore compiled files
+*.so
+
+# Ignore temporary files
+*.log
+*.pot
+*.pyc
+
+# Ignore media files (optional if using local media during development)
+media/
+
+
+
+# Ignore IDE/editor folders
+.vscode/
+.idea/
+.DS_Store
