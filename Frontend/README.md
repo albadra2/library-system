@@ -1,7 +1,7 @@
 
-# Ca298 Test app
+# React Skeleton
 
-This is a react skeleton application for the Ca298 lab exam.
+This is a react skeleton application.
 
 ## Installation
 Download the source code and navigate to the folder containing `package.json` to install the libraries run 
