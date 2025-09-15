@@ -44,6 +44,3 @@ npm start
 This will open a server running on localhost on port 3000 at [http://localhost:3000](http://localhost:3000)
 
 This port has been whitelisted by CORS in the django application.
-
-## Modifying the app
-You are free to modify this app as you see fit to complete the lab exam
